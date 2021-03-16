@@ -9,3 +9,4 @@ GET https://css-colors-json.herokuapp.com
 ```
 
 \
+This gives back application/json
